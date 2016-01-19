@@ -4,7 +4,7 @@
   "description": "setting up custom workflow with gulp",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/ahrjarrett/workflow_picador-project"
   },
   "author": "andrew jarrett",
   "devDependencies": {
