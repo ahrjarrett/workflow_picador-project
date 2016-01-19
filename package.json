@@ -1,0 +1,17 @@
+{
+  "name": "flow",
+  "version": "0.0.1",
+  "description": "setting up custom workflow with gulp",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "andrew jarrett",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-util": "^3.0.7",
+    "jquery": "^2.2.0"
+  }
+}
